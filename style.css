@@ -1,3 +1,7 @@
+.container {
+display: flex;
+  gap: 100px;
+}
 .button-wrapper {
   margin-bottom: 20px;
 }
